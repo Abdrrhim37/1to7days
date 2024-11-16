@@ -1,2 +1,7 @@
 # 1to7days
-this is program c
+this is Ripo c
+this is ripo created by abderrahim
+#include <stdio.h>
+int main(){
+printf("hello world);
+}
